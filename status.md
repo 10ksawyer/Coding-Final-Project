@@ -18,7 +18,7 @@ Short answers for the below questions suffice. If you want to alter your plan fo
 
 #### What have you done for your project so far?
 
-I am still working on the base pong game. 
+I am still working on the AI for the base pong game.  
 
 #### What have you not done for your project yet?
 
